@@ -1,0 +1,97 @@
+TebLocalPlannerROS:
+  acc_lim_theta: 0.05
+  acc_lim_x: 0.05
+  costmap_converter_plugin: ''
+  costmap_converter_rate: 5
+  costmap_converter_spin_thread: true
+  costmap_obstacles_behind_robot_dist: 0.1
+  dt_hysteresis: 0.1
+  dt_ref: 0.2
+  dynamic_obstacle_inflation_dist: 0.05
+  enable_homotopy_class_planning: false
+  enable_multithreading: true
+  feasibility_check_no_poses: 5
+  footprint_model:
+    radius: 0.38
+    type: polygon
+    vertices:
+    - - 0.26
+      - 0.26
+    - - 0.26
+      - -0.26
+    - - -0.26
+      - -0.26
+    - - -0.26
+      - 0.26
+  free_goal_vel: false
+  global_plan_overwrite_orientation: true
+  global_plan_viapoint_sep: 0.5
+  h_signature_prescaler: 0.5
+  h_signature_threshold: 0.1
+  include_costmap_obstacles: true
+  inflation_dist: 0.0
+  map_frame: map
+  max_global_plan_lookahead_dist: 3.0
+  max_number_classes: 2
+  max_vel_theta: 0.25
+  max_vel_x: 0.25
+  max_vel_x_backwards: 0.2
+  min_obstacle_dist: 0.05
+  min_turning_radius: 0.0
+  no_inner_iterations: 5
+  no_outer_iterations: 4
+  obstacle_heading_threshold: 0.45
+  obstacle_keypoint_offset: 0.1
+  obstacle_poses_affected: 25
+  odom_topic: /odom
+  optimization_activate: true
+  optimization_verbose: false
+  penalty_epsilon: 0.1
+  publish_feedback: true
+  roadmap_graph_area_width: 5
+  roadmap_graph_no_samples: 15
+  selection_alternative_time_cost: false
+  simple_exploration: false
+  teb_autosize: true
+  via_points_ordered: false
+  visualize_hc_graph: false
+  weight_acc_lim_theta: 1
+  weight_acc_lim_x: 1
+  weight_dynamic_obstacle: 10
+  weight_inflation: 0.1
+  weight_kinematics_forward_drive: 1000
+  weight_kinematics_nh: 1000
+  weight_kinematics_turning_radius: 1
+  weight_max_vel_theta: 1
+  weight_max_vel_x: 2
+  weight_obstacle: 50
+  weight_optimaltime: 1.0
+  weight_viapoint: 5.0
+  xy_goal_tolerance: 0.1
+  yaw_goal_tolerance: 0.19
+TrajectoryPlannerROS:
+  acc_lim_theta: 1
+  acc_lim_x: 0.3
+  acc_lim_y: 0.0
+  escape_vel: -0.15
+  gdist_scale: 0.7
+  heading_lookahead: 0.375
+  heading_scoring: false
+  heading_scoring_timestep: 0.8
+  holonomic_robot: false
+  latch_xy_goal_tolerance: false
+  max_vel_theta: 0.7
+  max_vel_x: 0.25
+  max_vel_y: 0.0
+  meter_scoring: true
+  min_in_place_vel_theta: 0.5
+  min_vel_theta: -0.7
+  min_vel_x: 0.2
+  min_vel_y: 0.0
+  occdist_scale: 0.01
+  oscillation_reset_dist: 0.05
+  pdist_scale: 0.6
+  prune_plan: true
+  publish_cost_grid_pc: false
+  xy_goal_tolerance: 0.1
+  yaw_goal_tolerance: 0.2

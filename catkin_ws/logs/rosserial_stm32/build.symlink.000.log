@@ -1,0 +1,9 @@
+Symlinking /home/mtq/catkin_ws/devel/lib/python3/dist-packages/rosserial_stm32/__init__.py
+Symlinking /home/mtq/catkin_ws/devel/lib/pkgconfig/rosserial_stm32.pc
+Symlinking /home/mtq/catkin_ws/devel/share/rosserial_stm32/cmake.lock
+Symlinking /home/mtq/catkin_ws/devel/share/rosserial_stm32/make_libraries.py
+Symlinking /home/mtq/catkin_ws/devel/share/rosserial_stm32/cmake/rosserial_stm32-msg-paths.cmake
+Symlinking /home/mtq/catkin_ws/devel/share/rosserial_stm32/cmake/rosserial_stm32Config-version.cmake
+Symlinking /home/mtq/catkin_ws/devel/share/rosserial_stm32/cmake/rosserial_stm32-msg-extras.cmake
+Symlinking /home/mtq/catkin_ws/devel/share/rosserial_stm32/cmake/rosserial_stm32Config.cmake
+Symlinking /home/mtq/catkin_ws/devel/share/roseus/ros/rosserial_stm32/manifest.l

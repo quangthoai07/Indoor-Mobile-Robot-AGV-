@@ -1,0 +1,7 @@
+Symlinking /home/mtq/catkin_ws/devel/lib/librosserial_server_lookup.so
+Symlinking /home/mtq/catkin_ws/devel/lib/rosserial_server/socket_node
+Symlinking /home/mtq/catkin_ws/devel/lib/rosserial_server/udp_socket_node
+Symlinking /home/mtq/catkin_ws/devel/lib/rosserial_server/serial_node
+Symlinking /home/mtq/catkin_ws/devel/lib/pkgconfig/rosserial_server.pc
+Symlinking /home/mtq/catkin_ws/devel/share/rosserial_server/cmake/rosserial_serverConfig-version.cmake
+Symlinking /home/mtq/catkin_ws/devel/share/rosserial_server/cmake/rosserial_serverConfig.cmake

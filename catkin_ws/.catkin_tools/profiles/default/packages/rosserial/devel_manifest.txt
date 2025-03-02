@@ -1,0 +1,2 @@
+rosserial/rosserial
+/home/mtq/catkin_ws/devel/.private/rosserial/cmake.lock /home/mtq/catkin_ws/devel/./cmake.lock

@@ -1,0 +1,5 @@
+Symlinking /home/mtq/catkin_ws/devel/lib/rosserial_embeddedlinux/cmake.lock
+Symlinking /home/mtq/catkin_ws/devel/lib/rosserial_embeddedlinux/make_libraries.py
+Symlinking /home/mtq/catkin_ws/devel/lib/pkgconfig/rosserial_embeddedlinux.pc
+Symlinking /home/mtq/catkin_ws/devel/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig.cmake
+Symlinking /home/mtq/catkin_ws/devel/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig-version.cmake

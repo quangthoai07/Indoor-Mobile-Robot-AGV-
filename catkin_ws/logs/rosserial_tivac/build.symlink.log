@@ -1,0 +1,4 @@
+Symlinking /home/mtq/catkin_ws/devel/lib/pkgconfig/rosserial_tivac.pc
+Symlinking /home/mtq/catkin_ws/devel/share/rosserial_tivac/cmake/rosserial_tivacConfig-version.cmake
+Symlinking /home/mtq/catkin_ws/devel/share/rosserial_tivac/cmake/rosserial_tivac-extras.cmake
+Symlinking /home/mtq/catkin_ws/devel/share/rosserial_tivac/cmake/rosserial_tivacConfig.cmake

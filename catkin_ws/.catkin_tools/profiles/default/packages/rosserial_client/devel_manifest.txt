@@ -1,0 +1,9 @@
+rosserial/rosserial_client
+/home/mtq/catkin_ws/devel/.private/rosserial_client/cmake.lock /home/mtq/catkin_ws/devel/./cmake.lock
+/home/mtq/catkin_ws/devel/.private/rosserial_client/lib/rosserial_client/cmake.lock /home/mtq/catkin_ws/devel/lib/rosserial_client/cmake.lock
+/home/mtq/catkin_ws/devel/.private/rosserial_client/lib/rosserial_client/make_libraries /home/mtq/catkin_ws/devel/lib/rosserial_client/make_libraries
+/home/mtq/catkin_ws/devel/.private/rosserial_client/lib/rosserial_client/make_library.py /home/mtq/catkin_ws/devel/lib/rosserial_client/make_library.py
+/home/mtq/catkin_ws/devel/.private/rosserial_client/lib/python3/dist-packages/rosserial_client/__init__.py /home/mtq/catkin_ws/devel/lib/python3/dist-packages/rosserial_client/__init__.py
+/home/mtq/catkin_ws/devel/.private/rosserial_client/lib/pkgconfig/rosserial_client.pc /home/mtq/catkin_ws/devel/lib/pkgconfig/rosserial_client.pc
+/home/mtq/catkin_ws/devel/.private/rosserial_client/share/rosserial_client/cmake/rosserial_clientConfig-version.cmake /home/mtq/catkin_ws/devel/share/rosserial_client/cmake/rosserial_clientConfig-version.cmake
+/home/mtq/catkin_ws/devel/.private/rosserial_client/share/rosserial_client/cmake/rosserial_clientConfig.cmake /home/mtq/catkin_ws/devel/share/rosserial_client/cmake/rosserial_clientConfig.cmake
