@@ -1,0 +1,5 @@
+../Drivers/STM32F4xx_HAL_Driver/Src/tm_stm32_ahrs_imu.c:30:7:oneOverSqrt	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/tm_stm32_ahrs_imu.c:35:6:calculateAngles	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/tm_stm32_ahrs_imu.c:53:6:TM_AHRSIMU_Init	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/tm_stm32_ahrs_imu.c:64:6:TM_AHRSIMU_UpdateAHRS	192	static
+../Drivers/STM32F4xx_HAL_Driver/Src/tm_stm32_ahrs_imu.c:165:6:TM_AHRSIMU_UpdateIMU	128	static
